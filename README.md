@@ -16,11 +16,3 @@
     <br><br>
     Pour commencer à jouer, appuyez sur la touche <strong>ESPACE</strong> !
 </p>
-
-<div align="center">
-    <a href="https://github.com/ton-pseudo/kart-game" target="_blank" style="text-decoration: none;">
-        <button style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 1rem;">
-            Voir sur GitHub
-        </button>
-    </a>
-</div>
